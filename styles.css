@@ -59,6 +59,8 @@ label {
     line-height: 24px;
     font-weight: 400;
     font-family: 'Poppins';
+    color: #4E4958;
+    margin-bottom: 8px;
 }
 form {
     width: 736px;
